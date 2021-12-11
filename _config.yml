@@ -1,15 +1,15 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Md Ashiqur Rahman
+description: Software Engineer,NybSys
+baseurl: "/info/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
+email: "ashiq.mail.net@gmail.com"
+linkedin: "http://linkedin.com/in/ashiqs"
+github: "https://github.com/ashiqqs"
+website: "http://ashiqqs.github.io/"
 medium: "https://tahanima.medium.com/"
 
 markdown: kramdown
